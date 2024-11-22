@@ -7,4 +7,4 @@
 
 [Cloudfare](https://jekyll-theme-chirpy-7lm.pages.dev/)
 
-[Ejercicio1](actividad2IAW)
+[Ejercicio1](actividad2IAW/ejercicio1.md)
